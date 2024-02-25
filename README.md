@@ -47,7 +47,7 @@ Cleaning up text data is crucial for preparing it for analysis and machine learn
 ## <br>**➲ Exploratory Data Analysis (EDA)**
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Distribution of Text Lengths in Messages
+              <strong>​✒️<Click here to see :</strong> Distribution of Text Length in Messages
        </summary>
                      <p align='center'>
                             <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Text_Distribution.png' style='width: 70%;' />
@@ -56,7 +56,7 @@ Cleaning up text data is crucial for preparing it for analysis and machine learn
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Distribution of Text Lengths in Ham Messages
+              <strong>​✒️<Click here to see :</strong> Distribution of Text Length in Ham Messages
        </summary>
                      <p align='center'>
                             <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Ham_dirstribution.png' style='width: 70%;' />
@@ -65,7 +65,7 @@ Cleaning up text data is crucial for preparing it for analysis and machine learn
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Distribution of Text Lengths in Spam Messages
+              <strong>​✒️<Click here to see :</strong> Distribution of Text Length in Spam Messages
        </summary>
                      <p align='center'>
                             <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/spam_distribution.png' style='width: 70%;' />
@@ -77,7 +77,7 @@ Cleaning up text data is crucial for preparing it for analysis and machine learn
               <strong>​✒️<Click here to see :</strong> Distribution of Ham & Spam Messages in the Dataset
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Ham_spam_dis.png' style='width: 70%;' />
+                            <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Ham_spam_dis.png' style='width: 50%;' />
                      </p>
 </details>
 
@@ -97,16 +97,7 @@ Cleaning up text data is crucial for preparing it for analysis and machine learn
                      <p align='center'>
                             <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/ham_wordcloud.png' style='width: 70%;' />
                      </p>
-</details>
 
-<details>
-       <summary>
-              <strong>​✒️<Click here to see :</strong> WordCloud for Ham Message
-       </summary>
-                     <p align='center'>
-                            <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/ham_wordcloud.png' style='width: 70%;' />
-                     </p>
-</details>
 
 ## <br>**➲ Model Building**
 
@@ -126,5 +117,12 @@ The process involved the following steps:
 
 
 ## <br>**➲ Conclusion:**
+
+
+<strong>​Classification Report for Training and Testing:</strong> 
+   <p align='center'>
+          <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Report.png' style='width: 70%;' />
+   </p>
+
 
 * **The Random Forest classifier** demonstrates superior performance, achieving a high training accuracy of **99.9%** and a commendable testing accuracy of **98.2%**. Furthermore, its precision, recall, and F1-scores for both classes on both the training and testing datasets are consistently high, indicating robust performance across the board. Therefore, based on these evaluation metrics, we can confidently conclude that the Random Forest classifier outperforms other models and is the best choice for this classification task.*
