@@ -5,7 +5,7 @@
 <p align="center">
   <img src='' width='600' height='240' />
 </p>
-You can access the web application[Car Price Predictor] by following this link: https://
+You can access the web application[Message_Classifier] by following this link: https://
 
 
 
