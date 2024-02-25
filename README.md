@@ -1,5 +1,5 @@
 <p align="center" style="font-size: larger; color: #3366cc; font-weight: bold;">
-  <strong>Spam Detection with ML and NLP: A Machine Learning Classifier for Mail/SMS Spam Detection using Natural Language Processing (NLP)</strong>
+  <strong>A Machine Learning Classifier for Mail/SMS Spam Detection using Natural Language Processing (NLP)</strong>
 </p>
 
 <p align="center">
