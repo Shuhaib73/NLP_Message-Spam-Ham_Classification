@@ -105,19 +105,26 @@ In the model building phase, I've employed several machine learning algorithms t
 
 The process involved the following steps:
 
-**Data Preparation:** Preprocessed the text data by cleaning and vectorizing it, ensuring that it's in a suitable format for model training.
+**Data Preparation:** *Preprocessed the text data by cleaning and vectorizing it, ensuring that it's in a suitable format for model training.*
 
-**Model Training:** Trained each of the selected algorithms on the preprocessed data. This involved splitting the dataset into training and testing sets, fitting the models to the training data, and evaluating their performance using the testing data.
+**Model Training:** *Trained each of the selected algorithms on the preprocessed data. This involved splitting the dataset into training and testing sets, fitting the models to the training data, and evaluating their performance using the testing data.*
 
-**Performance Evaluation:** Assessed the performance of each model using various evaluation metrics such as accuracy, precision, recall, and F1-score. This step helped in determining which model performed best in classifying spam and ham messages.
+**Performance Evaluation:** *Assessed the performance of each model using various evaluation metrics such as accuracy, precision, recall, and F1-score. This step helped in determining which model performed best in classifying spam and ham messages.*
 
-**Model Selection:** Identified the Random Forest classifier as the best-performing model based on its superior performance compared to other algorithms.
+**Model Selection:** *Identified the Random Forest classifier as the best-performing model based on its superior performance compared to other algorithms.*
 
-**Model Deployment:** Deployed the selected Random Forest model for real-world use cases, enabling it to classify incoming Mail/SMS messages into spam or ham categories effectively.
+**Model Deployment:** *Deployed the selected Random Forest model for real-world use cases, enabling it to classify incoming Mail/SMS messages into spam or ham categories effectively.*
 
 **Classification Report for Training and Testing**
 <p align='center'>
       <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Report.png' style='width: 58%;' />
+</p>
+
+
+**Confusion Matrix for Training and Testing**
+<p align='center'>
+      <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/training.png' style='width: 58%;' />
+      <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/testing_cls.png' style='width: 58%;' />
 </p>
 
 
