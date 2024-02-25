@@ -117,7 +117,7 @@ The process involved the following steps:
 
 **Classification Report for Training and Testing**
 <p align='center'>
-      <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Report.png' style='width: 70%;' />
+      <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Report.png' style='width: 58%;' />
 </p>
 
 
