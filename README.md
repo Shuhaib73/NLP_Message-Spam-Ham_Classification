@@ -25,23 +25,24 @@ While reading data, we get data in the structured or unstructured format. A stru
 Cleaning up text data is crucial for preparing it for analysis and machine learning tasks. This process involves several steps to enhance the quality and relevance of the text data. These steps typically include:
 
 
-### <br>**1. Removing Noise:**
-Eliminate irrelevant characters, symbols, or formatting that may not contribute to the analysis, such as special characters, punctuation, and HTML tags.
-
-### <br>**2. Tokenization:**
-Splitting the text into individual words or tokens to facilitate further analysis and feature extraction.
-
-### <br>**3. Removing Stopwords: **
-Filter out common words (e.g., "and", "the", "is") that do not carry significant meaning and are unlikely to contribute to the analysis.
-
-### <br>**4. Lowercasing:**
-Convert all text to lowercase to ensure uniformity and prevent redundancy in the analysis caused by different cases of the same word.
-
-### <br>**5. Stemming or Lemmatization:**
-Reduce words to their base or root form to consolidate variations of the same word and improve the accuracy of analysis.
-
-### <br>**6. Vectorizing:**
-Convert cleaned text data into numerical representations, typically using techniques like TF-IDF (Term Frequency-Inverse Document Frequency) or Bag-of-Words, to enable machine learning algorithms to process the data effectively.
+  ### **1. Removing Noise:**
+  Eliminate irrelevant characters, symbols, or formatting that may not contribute to the analysis, such as special characters, punctuation, and HTML tags.
+  
+  ### **2. Tokenization:**
+  Splitting the text into individual words or tokens to facilitate further analysis and feature extraction.
+  
+  ### **3. Removing Stopwords:**
+  Filter out common words (e.g., "and", "the", "is") that do not carry significant meaning and are unlikely to contribute to the analysis.
+  
+  ### **4. Lowercasing:**
+  Convert all text to lowercase to ensure uniformity and prevent redundancy in the analysis caused by different cases of the same word.
+  
+  ### **5. Stemming or Lemmatization:**
+  Reduce words to their base or root form to consolidate variations of the same word and improve the accuracy of analysis.
+  
+  ### **6. Vectorizing:**
+  Convert cleaned text data into numerical representations, typically using techniques like TF-IDF (Term Frequency-Inverse Document Frequency) or Bag-of-Words, 
+  to enable machine learning algorithms to process the data effectively.
 
 
 ## <br>**➲ Model Building**
