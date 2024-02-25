@@ -97,7 +97,7 @@ Cleaning up text data is crucial for preparing it for analysis and machine learn
                      <p align='center'>
                             <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/ham_wordcloud.png' style='width: 70%;' />
                      </p>
-
+</details>
 
 ## <br>**➲ Model Building**
 
