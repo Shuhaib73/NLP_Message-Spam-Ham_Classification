@@ -118,10 +118,5 @@ The process involved the following steps:
 
 ## <br>**➲ Conclusion:**
 
-​Classification Report for Training and Testing: 
- <p align='center'>
-        <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Report.png' style='width: 70%;' />
- </p>
-
 
 * **The Random Forest classifier** demonstrates superior performance, achieving a high training accuracy of **99.9%** and a commendable testing accuracy of **98.2%**. Furthermore, its precision, recall, and F1-scores for both classes on both the training and testing datasets are consistently high, indicating robust performance across the board. Therefore, based on these evaluation metrics, we can confidently conclude that the Random Forest classifier outperforms other models and is the best choice for this classification task.*
