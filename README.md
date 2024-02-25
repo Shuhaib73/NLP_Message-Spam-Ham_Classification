@@ -44,6 +44,15 @@ Cleaning up text data is crucial for preparing it for analysis and machine learn
   Convert cleaned text data into numerical representations, typically using techniques like TF-IDF (Term Frequency-Inverse Document Frequency) or Bag-of-Words, 
   to enable machine learning algorithms to process the data effectively.
 
+## <br>**➲ Exploratory Data Analysis (EDA)**
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Frequency Distribution of a Message length
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Text_Distribution.png' style='width: 70%;' />
+                     </p>
+</details>
 
 ## <br>**➲ Model Building**
 
