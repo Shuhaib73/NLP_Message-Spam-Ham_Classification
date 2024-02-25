@@ -47,10 +47,64 @@ Cleaning up text data is crucial for preparing it for analysis and machine learn
 ## <br>**➲ Exploratory Data Analysis (EDA)**
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Frequency Distribution of a Message length
+              <strong>​✒️<Click here to see :</strong> Distribution of Text Lengths in Messages
        </summary>
                      <p align='center'>
                             <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Text_Distribution.png' style='width: 70%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Distribution of Text Lengths in Ham Messages
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Ham_dirstribution.png' style='width: 70%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Distribution of Text Lengths in Spam Messages
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/spam_distribution.png' style='width: 70%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Distribution of Ham & Spam Messages in the Dataset
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/Ham_spam_dis.png' style='width: 70%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> WordCloud of Ham Message
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/ham_wordcloud.png' style='width: 70%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> WordCloud of Spam Message
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/ham_wordcloud.png' style='width: 70%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> WordCloud for Ham Message
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/NLP_Message-Spam-Ham_Classification/blob/main/ham_wordcloud.png' style='width: 70%;' />
                      </p>
 </details>
 
