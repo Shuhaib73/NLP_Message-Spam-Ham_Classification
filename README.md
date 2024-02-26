@@ -1,4 +1,4 @@
-<p align="center" style="font-size: larger; color: #a2d2ff; font-weight: bold;">
+<p align="center" style="font-size: larger; font-weight: bold;">
   <strong>A Machine Learning Classifier for Mail/SMS Spam Detection using Natural Language Processing (NLP)</strong>
 </p>
 
