@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src='https://www.canva.com/design/DAF920NEIOA/pNyZQ81fPgw4UbO7okMzvw/edit?utm_content=DAF920NEIOA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton' width='600' height='240' />
+  <img src='file:///C:/Users/user/Desktop/Python/Main_Projects/NLP/Sentiment_Analysis/chart_gif.gif' width='600' height='240' />
 </p>
 You can access the web application[Message_Classifier] by following this link: https://
 
