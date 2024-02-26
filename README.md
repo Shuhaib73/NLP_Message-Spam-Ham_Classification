@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src='https://img.hotimg.com/chart_gif.gif' width='600' height='240' />
+  <img src='https://img.hotimg.com/Untitled-design-2.gif' width='600' height='300' />
 </p>
 You can access the web application[Message_Classifier] by following this link: https://
 
